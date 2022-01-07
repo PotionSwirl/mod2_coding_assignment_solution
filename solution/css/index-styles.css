@@ -58,6 +58,10 @@ div > div > div {
 	margin-bottom: 25px;
 }
 
+html {
+	margin-bottom: 25px;
+}
+
 
 /**********Responsive framework start**********/
 .row {
