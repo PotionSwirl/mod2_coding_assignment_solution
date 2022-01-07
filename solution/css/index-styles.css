@@ -1,0 +1,53 @@
+* {
+	font-family: Comic Sans MS;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/* Base Styles */
+div > p {
+	padding: 20px;
+	font-size: 110%;
+	clear: right;
+}
+
+div > div > div {
+	padding: 5px;
+	font-size: 137.5%;
+	width: 180px;
+	text-align: center;
+	margin: 0;
+    float: right;
+    border: 1px solid black;
+}
+
+#chicken {
+	background-color: hotpink;
+}
+
+#beef {
+	background-color: darkred;
+	color: white;
+}
+
+#sushi {
+	background-color: beige;
+}
+
+
+.title {
+	font-size: 192.5%;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 70px;
+	font-weight: bold;
+}
+
+div > div {
+	background-color: lightgray;
+	margin: 30px;
+}
+
+
+
