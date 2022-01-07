@@ -51,7 +51,7 @@ div > div > div > div {
 div > div > div {
 	background-color: lightgray;
 	border: 1px solid black;
-	width: 90%;
+	width: 85%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 25px;
@@ -176,9 +176,9 @@ div > div > div {
 	}
 
 	.fix-md {
-		width: 95%;
-		margin-right: 2.5%;
-		margin-left: 2.5%;
+		width: 92.5%;
+		margin-right: 3.75%;
+		margin-left: 3.75%;
 	}
 }
 
