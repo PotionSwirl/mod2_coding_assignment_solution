@@ -10,6 +10,7 @@ div > div > p {
 	padding: 20px;
 	font-size: 110%;
 	clear: right;
+
 }
 
 div > div > div > div {
@@ -56,6 +57,7 @@ div > div > div {
 	margin-left: auto;
 	margin-top: 25px;
 	margin-bottom: 25px;
+	position: relative;
 }
 
 html {
@@ -184,6 +186,11 @@ html {
 		margin-right: 3.75%;
 		margin-left: 3.75%;
 	}
+
+	.title {
+		margin-bottom: 20px;
+	}
+
 }
 
 /* Phone layout */
@@ -238,5 +245,9 @@ html {
 
 	.col-sm-12 {
 		width: 100%;
+	}
+
+	.title {
+		margin-bottom: 0;
 	}
 }
