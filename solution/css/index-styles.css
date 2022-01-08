@@ -52,7 +52,7 @@ div > div > div > div {
 div > div > div {
 	background-color: lightgray;
 	border: 1px solid black;
-	width: 85%;
+	width: 90%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 25px;
@@ -182,9 +182,10 @@ html {
 	}
 
 	.fix-md {
-		width: 92.5%;
-		margin-right: 3.75%;
-		margin-left: 3.75%;
+		width: 95%;
+		margin-right: auto;
+		margin-left: auto;
+		margin-top: 18px;
 	}
 
 	.title {
