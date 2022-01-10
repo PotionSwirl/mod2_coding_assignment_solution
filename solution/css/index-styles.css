@@ -68,6 +68,7 @@ html {
 /**********Responsive framework start**********/
 .row {
 	width: 100%;
+
 }
 
 /* Desktop layout */
@@ -185,7 +186,7 @@ html {
 		width: 95%;
 		margin-right: auto;
 		margin-left: auto;
-		margin-top: 18px;
+		margin-top: 15px;
 	}
 
 	.title {
